@@ -1,4 +1,4 @@
-# Open Ear Last Played
+# Open Ear Last Played
 
 To use, create a div where you want the last played information to be included with the id of OpenEarLastPlayed:
 
