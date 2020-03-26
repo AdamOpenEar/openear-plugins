@@ -8,7 +8,7 @@ Then include the script where you want:
 
 `<script src="https://plugins.openearmusic.com/oe-lastplayed-1.0.min.js" crossorigin="anonymous">`
 
-To instantiate use:
+To initialise use:
 
 `var lastPlayed = new OpenEarLastPlayed(publicKey);`
 
